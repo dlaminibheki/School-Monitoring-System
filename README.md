@@ -1,0 +1,2 @@
+# School-Monitoring-System
+School Monitoring System, is the system that is developed to help parents find a best school for their children. not only that.This is to help schools to draw more attention from stakeholders and companies wish to sponsor their students or organisations that are dedicated to improve education from those disadvantaged schools and also help parents to know which school is best for their children. The system will then make it easy to find a schools location and the rating of their service like accommodation, meals, and cost
